@@ -1,0 +1,8 @@
+version: 1.0.2
+files:
+  - url: OpenClaw-LLM-Studio-1.0.2-Setup.exe
+    sha512: xIcgAWSAeccepoVvVbaKuiuHj4FbyKTOZJUxhZ1IfK/tnJJGaucPcNE0lD6a3HuiPTamOJhrwYK1NunHp9DziA==
+    size: 79418843
+path: OpenClaw-LLM-Studio-1.0.2-Setup.exe
+sha512: xIcgAWSAeccepoVvVbaKuiuHj4FbyKTOZJUxhZ1IfK/tnJJGaucPcNE0lD6a3HuiPTamOJhrwYK1NunHp9DziA==
+releaseDate: '2026-06-12T10:48:05.531Z'
