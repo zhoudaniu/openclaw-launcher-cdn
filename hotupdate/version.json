@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "asarUrl": "https://2fd4d3b9.openclaw-launcher-cdn.pages.dev/hotupdate/app-1.0.5.asar",
+  "version": "1.0.6",
+  "asarUrl": "https://api.github.com/repos/zhoudaniu/openclaw-launcher-cdn/contents/hotupdate/app-1.0.6.asar",
   "asarSize": 2283388,
-  "releaseDate": "2026-06-13T10:11:01.879Z",
-  "releaseNotes": "v1.0.5 更新"
+  "releaseDate": "2026-06-13T10:43:24.863Z",
+  "releaseNotes": "v1.0.6 更新"
 }
