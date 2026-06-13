@@ -1,6 +1,6 @@
 version: 1.0.2
 files:
-  - url: OpenClaw-LLM-Studio-1.0.2-Setup.exe
+  - url: https://github.com/zhoudaniu/openclaw-launcher-cdn/releases/download/v1.0.2/OpenClaw-LLM-Studio-1.0.2-Setup.exe
     sha512: EAJ9JdkKt3KIyJ2QDyPWTpk7wpc/wKB2rK43hJYh03dnSxF+XOP56YqDDKaH/BufsoC5eTUXXq6YcbAVKWztvQ==
     size: 76499837
 path: OpenClaw-LLM-Studio-1.0.2-Setup.exe
