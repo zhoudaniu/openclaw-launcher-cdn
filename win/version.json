@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "asarUrl": "https://openclaw-launcher-cdn.pages.dev/win/app-1.1.0.asar",
-  "asarSize": 2288761,
-  "releaseDate": "2026-06-14T01:59:55Z",
-  "releaseNotes": "v1.1.0 \u4fee\u590d app.asar \u4e0d\u5b58\u5728\u65f6\u7684\u68c0\u67e5"
+  "version": "1.1.1",
+  "asarUrl": "https://openclaw-launcher-cdn.pages.dev/win/app-1.1.1.asar",
+  "asarSize": 2288932,
+  "releaseDate": "2026-06-14T02:08:57Z",
+  "releaseNotes": "v1.1.1 \u4fee\u590d Windows \u6587\u4ef6\u66ff\u6362\u95ee\u9898"
 }
